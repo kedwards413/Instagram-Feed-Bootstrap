@@ -1,2 +1,4 @@
 body{background: lightgray;}
 .nav-link{color: darkslategray;}
+.nav-link:hover{color:black;}
+.btn {background-color: green;}
